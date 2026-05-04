@@ -70,11 +70,20 @@ Estos resultados indican que el sistema presenta un comportamiento estable y efi
 
 Proyecto-Calidad-Software/
 │
-├── docs/                # Documentación (plan de pruebas, informe final)
-├── jmeter/             # Archivo .jmx de pruebas de rendimiento
-├── selenium/           # Scripts de automatización
-├── evidencia/          # Capturas de ejecución
-└── README.md           # Descripción del proyecto
+├── docs/
+│ ├── plan_pruebas.docx
+│ ├── informe_final.docx
+│
+├── jmeter/
+│ ├── test_tienda_mugs.jmx
+│
+├── selenium/
+│
+├── evidencia/
+│ ├── capturas/
+│
+└── README.md
+
 
 ---
 
@@ -86,6 +95,6 @@ El sistema evaluado cumple con los criterios de calidad establecidos, mostrando 
 
 ## 🚀 Autores
 
-DANNA MICHELLE MORALES LOSADA
-JULIAN GARCIA
-HERNANDO ANTONIO MARTIN HERRERA
+- **DANNA MICHELLE MORALES LOSADA**
+- **JULIAN GARCIA**
+- **HERNANDO ANTONIO MARTIN HERRERA**
